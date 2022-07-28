@@ -12,10 +12,10 @@ these are just for now more versions of AIVA will come in future...
 
 
 packages used: 
-a. pip install speechRecognition - inputs user voice data
-b. pip install pyttsx3 - text to speech
-c. pip install pywhatkit - browser controls
-d. pip install wikipedia - search wiki
-e. pip install pyjokes - to get funny jokes
+1. pip install speechRecognition - inputs user voice data
+2. pip install pyttsx3 - text to speech
+3. pip install pywhatkit - browser controls
+4. pip install wikipedia - search wiki
+5. pip install pyjokes - to get funny jokes
 
 
