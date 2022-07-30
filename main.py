@@ -51,6 +51,8 @@ def run_aiva():
     elif 'joke' in command:
         talk('here is a joke for you')
         talk(pyjokes.get_joke())
+    elif 'thank you' in command:
+        talk('you are welcome')
     else:
         talk('Sorry could you please repeat it again')
 
